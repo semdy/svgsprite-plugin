@@ -1,0 +1,30 @@
+{
+  "name": "svgsprite-plugin",
+  "main": "index.js",
+  "description": "Svg sprite plugin",
+  "homepage": "https://github.com/notiv-nt/svgsprite-plugin",
+  "author": {
+    "name": "Mike"
+  },
+  "bugs": {
+    "url": "https://github.com/notiv-nt/svgsprite-plugin/issues"
+  },
+  "dependencies": {
+    "glob": "^7.1.1",
+    "mkdir-p": "0.0.7",
+    "svgo-sync": "^0.5.1"
+  },
+  "keywords": [
+    "svg",
+    "svgsprite",
+    "svg-sprite",
+    "webpack svg",
+    "webpack svg sprite",
+    "webpack svg-usprite"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notiv-nt/svgsprite-plugin.git"
+  },
+  "version": "0.0.4"
+}
